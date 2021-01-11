@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm D!
-<div style = "border: 5px dotted teal" >
+<div>
 📒MY STATAS
 <div/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pro-D-coder&theme=graywhite&show_icons=true&count_private=true)

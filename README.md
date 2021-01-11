@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm D!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pro-D-coder&theme=graywhite&show_icons=true&count_private=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-D-coder&layout = compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pro-D-coder&theme=graywhite&show_icons=true&count_private=true)
+
 <!--
 **pro-D-coder/pro-D-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
